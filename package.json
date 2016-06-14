@@ -14,7 +14,7 @@
   "dependencies": {
     "underscore": "1.8.2",
     "async": "0.9.0",
-    "tldextract": "0.0.4"
+    "tldextract": "git://github.com/thoughtindustries/tldextract.git#5aae95d62888621b425d33d239fb761e2782df79"
   },
   "devDependencies": {
     "should": "*",
