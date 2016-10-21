@@ -1,6 +1,6 @@
 {
-  "name": "inbound",
-  "version": "1.0.1",
+  "name": "inbound-ti",
+  "version": "2.0.0",
   "description": "Url referrer and campaign parsing utilities",
   "author": "Ilya Volodarsky <ilya@segment.io>, Adam Solove <asolove@gmail.com>",
   "engines": {
@@ -14,7 +14,7 @@
   "dependencies": {
     "underscore": "1.8.2",
     "async": "0.9.0",
-    "tldextract": "git://github.com/thoughtindustries/tldextract.git#5aae95d62888621b425d33d239fb761e2782df79"
+    "tldextract-ti": "^1.0.0"
   },
   "devDependencies": {
     "should": "*",
